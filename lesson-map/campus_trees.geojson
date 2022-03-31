@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "campus_trees",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "species": "maple", "dbh": 3.0 }, "geometry": { "type": "Point", "coordinates": [ -9407017.924943407997489, 4584852.185798075981438 ] } },
+{ "type": "Feature", "properties": { "species": "maple", "dbh": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -9407005.553431497886777, 4584840.191466406919062 ] } },
+{ "type": "Feature", "properties": { "species": "maple", "dbh": 5.0 }, "geometry": { "type": "Point", "coordinates": [ -9407045.911717303097248, 4584841.851059467531741 ] } },
+{ "type": "Feature", "properties": { "species": "spruce", "dbh": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -9407041.536426505073905, 4584853.241902751848102 ] } },
+{ "type": "Feature", "properties": { "species": "spruce", "dbh": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -9407023.205466784536839, 4584871.044810134917498 ] } },
+{ "type": "Feature", "properties": { "species": "oak", "dbh": 7.0 }, "geometry": { "type": "Point", "coordinates": [ -9407080.83860763721168, 4584870.893938038498163 ] } }
+]
+}
